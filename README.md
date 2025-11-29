@@ -1,1 +1,3 @@
-# bot
+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
+
+export OPENAI_API_KEY="sk-твой-ключ"
