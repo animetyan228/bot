@@ -1,0 +1,9 @@
+flask
+flask-cors
+pymupdf
+faiss-cpu
+sentence-transformers
+llama-cpp-python
+numpy
+fitz
+crewai
